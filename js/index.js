@@ -1,5 +1,4 @@
-const message = `Hi, I'm Thomas Orozco. I have a knowledge of Java ♨️, PHP and MySQL 🔥 technologies. I am passionate about learning and innovating mainly in the fun world of Minecraft 🌎.
-`;
+const message = `Hi, I'm Thomas Orozco. I have a knowledge of Java ♨️, PHP and MySQL 🔥 technologies. I am passionate about learning and innovating mainly in the fun world of Minecraft 🌎.`;
 
 const container = document.querySelector('#target');
 let n;
